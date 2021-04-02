@@ -1,0 +1,24 @@
+{
+  "name": "words-api",
+  "version": "1.0.0",
+  "description": "Little API to serve words in my Hangman Game : https://github.com/MatthiasWanner/vite-hangman_game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthiasWanner/back-api-Hangman_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthiasWanner/back-api-Hangman_game/issues"
+  },
+  "homepage": "https://github.com/MatthiasWanner/back-api-Hangman_game#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
