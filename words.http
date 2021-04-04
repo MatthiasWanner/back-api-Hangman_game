@@ -5,4 +5,4 @@ GET http://localhost:5000/api/wordsapi HTTP/1.1
 GET http://localhost:5000/api/wordsapi/5 HTTP/1.1
 
 ###
-GET http://localhost:5000/api/wordsapi/random/5 HTTP/1.1
+GET http://localhost:5000/api/wordsapi/random/6 HTTP/1.1
